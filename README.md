@@ -5,7 +5,7 @@ The aim is to treat 10-digit binary numbers as individuals in different experime
 	                             Problem 1	   Problem 2   	  Problem 3	  Problem 4
      n	                                10	       100	     100	     100
     initial population size (m)	        10	       100	     100	     1000
-    number of iterations	        10             100	     1000    	     100
+    number of iterations	           10             100	     1000    	     100
     crossover type	                              One Point Crossover
     crossover ratio	                                     70%
     mutation type	                     bitflip (flipping n / 3 bits at random)
